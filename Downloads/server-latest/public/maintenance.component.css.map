@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/components/maintenance/maintenance.component.css"],
-  "sourcesContent": [".m-page {\r\n    height: 100%;\r\n    width: 100%;\r\n    position: absolute;\r\n}\r\n\r\n.content-box {\r\n    color: #ff6400;\r\n    font-size: 57px;\r\n    text-align: center;\r\n    background: #fff;\r\n    border-radius: 25px;\r\n    padding: 50px;\r\n    width: 750px;\r\n    margin: 175px auto;\r\n}"],
-  "mappings": ";AAAA,CAAC;AACG,UAAQ;AACR,SAAO;AACP,YAAU;AACd;AAEA,CAAC;AACG,SAAO;AACP,aAAW;AACX,cAAY;AACZ,cAAY;AACZ,iBAAe;AACf,WAAS;AACT,SAAO;AACP,UAAQ,MAAM;AAClB;",
-  "names": []
-}

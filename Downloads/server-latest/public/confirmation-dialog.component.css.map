@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/components/confirmation-dialog/confirmation-dialog.component.css"],
-  "sourcesContent": [".modal-sm {\r\n  max-width: 475px !important;\r\n}\r\n\r\n.cancel-btn {\r\n  background-color: #9E9E9E;\r\n  min-width: 115px;\r\n}\r\n\r\n.save-change {\r\n  background-color: #ff6400;\r\n  color: #fff;\r\n}\r\n\r\n.modal-footer {\r\n  border-top: none !important\r\n}\r\n\r\n.iframe-in-modal {\r\n  background:url(../../../assets/img/loader.gif) center center no-repeat;\r\n  background-size: 100px;\r\n}\r\n.msgpart {\r\n  display: initial !important;\r\n  position: relative;\r\n  top: 18px;\r\n}"],
-  "mappings": ";AAAA,CAAC;AACC,aAAW;AACb;AAEA,CAAC;AACC,oBAAkB;AAClB,aAAW;AACb;AAEA,CAAC;AACC,oBAAkB;AAClB,SAAO;AACT;AAEA,CAAC;AACC,cAAY;AACd;AAEA,CAAC;AACC,cAAW,0BAAoC,OAAO,OAAO;AAC7D,mBAAiB;AACnB;AACA,CAAC;AACC,WAAS;AACT,YAAU;AACV,OAAK;AACP;",
-  "names": []
-}

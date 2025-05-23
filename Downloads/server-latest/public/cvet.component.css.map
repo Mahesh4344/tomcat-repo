@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/modules/cvet/cvet.component.css"],
-  "sourcesContent": ["@import url('https://fonts.cdnfonts.com/css/mulish');\r\n\r\n::ng-deep *:not(span.material-symbols-outlined, i) {\r\n    font-family: Mulish-Regular, Helvetica, Arial, Verdana, Tahoma, sans-serif !important;\r\n  }"],
-  "mappings": ";;;AAEA,UAAU,CAAC,KAAK,IAAI,CAAC,2BAA2B;AAC5C;AAAA,IAAa,cAAc;AAAA,IAAE,SAAS;AAAA,IAAE,KAAK;AAAA,IAAE,OAAO;AAAA,IAAE,MAAM;AAAA,IAAE;AAClE;",
-  "names": []
-}

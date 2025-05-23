@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/components/gigya-managements/gigya-user-profile/gigya-user-profile.component.css"],
-  "sourcesContent": [".gigyaDiv {\r\n  height: calc(100vh - 125px);\r\n}\r\n@media screen and (max-width: 767px) {\r\n  .user-profile {\r\n    padding: 20px 0 0 0 !important;\r\n  }\r\n\r\n  .outer {\r\n    margin-top: 15px;\r\n    padding: 0 20px;\r\n  }\r\n}"],
-  "mappings": ";AAAA,CAAC;AACC,UAAQ,KAAK,MAAM,EAAE;AACvB;AACA,OAAO,OAAO,IAAI,CAAC,SAAS,EAAE;AAC5B,GAAC;AACC,aAAS,KAAK,EAAE,EAAE;AACpB;AAEA,GAAC;AACC,gBAAY;AACZ,aAAS,EAAE;AACb;AACF;",
-  "names": []
-}
