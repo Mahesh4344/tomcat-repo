@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/modules/refrence-lab/refrence-lab.component.css"],
-  "sourcesContent": [".page-wrapper.refpart {\r\n    height: calc(100vh - 150px);\r\n}\r\n@media screen and (max-width: 767px) {\r\n.page-wrapper.refpart {\r\n    padding: 20px 0 0!important;\r\n}\r\n}"],
-  "mappings": ";AAAA,CAAC,YAAY,CAAC;AACV,UAAQ,KAAK,MAAM,EAAE;AACzB;AACA,OAAO,OAAO,IAAI,CAAC,SAAS,EAAE;AAC9B,GAJC,YAIY,CAJC;AAKV,aAAS,KAAK,EAAE;AACpB;AACA;",
-  "names": []
-}

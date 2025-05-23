@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/shared/pdf-modal/pdf-modal.component.css"],
-  "sourcesContent": ["::ng-deep .ng2-pdf-viewer-container {\r\n  overflow-x: hidden !important;\r\n}\r\n\r\n.dwnBtn {\r\n  margin-right: 20px !important;\r\n  font-size: 16px !important;\r\n  /* margin-top: 10px; */\r\n  color: #007bff;\r\n  background-color: #fff;\r\n  border: none !important;\r\n}\r\n\r\n.dwnBtn img {\r\n  width: 22px;\r\n  /* margin-right: 25px; */\r\n}\r\n\r\n/* .pull-right.dwnBtn:hover {\r\n  cursor: pointer;\r\n} */"],
-  "mappings": ";AAAA,UAAU,CAAC;AACT,cAAY;AACd;AAEA,CAAC;AACC,gBAAc;AACd,aAAW;AAEX,SAAO;AACP,oBAAkB;AAClB,UAAQ;AACV;AAEA,CATC,OASO;AACN,SAAO;AAET;",
-  "names": []
-}

@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/components/clinic-management/clinic-management.component.css"],
-  "sourcesContent": [".g-btn {\r\n  color: #fff;\r\n  background-color: #fd6400;\r\n  border-color: #fd6400;\r\n}\r\n\r\n.mat-form-field {\r\n  width: 100%;\r\n}\r\n\r\n.mat-expansion-panel:not([class*=\"mat-elevation-z\"]) {\r\n  box-shadow: none;\r\n}\r\n\r\n.mat-expansion-panel {\r\n  background: transparent;\r\n  color: rgba(0, 0, 0, 0.87);\r\n}\r\n\r\n.mat-card {\r\n  height: calc(100vh - 110px);\r\n}\r\n\r\n.addclinic {\r\n  color: #ffffff;\r\n  background-color: #fd6400;\r\n  border-color: #fd6400;\r\n  border-radius: 6px;\r\n}"],
-  "mappings": ";AAAA,CAAC;AACC,SAAO;AACP,oBAAkB;AAClB,gBAAc;AAChB;AAEA,CAAC;AACC,SAAO;AACT;AAEA,CAAC,mBAAmB,KAAK,CAAC;AACxB,cAAY;AACd;AAEA,CAJC;AAKC,cAAY;AACZ,SAAO,KAAK,CAAC,EAAE,CAAC,EAAE,CAAC,EAAE;AACvB;AAEA,CAAC;AACC,UAAQ,KAAK,MAAM,EAAE;AACvB;AAEA,CAAC;AACC,SAAO;AACP,oBAAkB;AAClB,gBAAc;AACd,iBAAe;AACjB;",
-  "names": []
-}

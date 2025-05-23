@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/components/alert-message/alert-message.component.css"],
-  "sourcesContent": [".popup_text {\r\n    width: 120px;\r\n    text-align: left;\r\n    font-weight: 700;\r\n}\r\n\r\n.alert_content {\r\n    max-height: calc(100vh - 401px);\r\n    overflow: auto;\r\n}"],
-  "mappings": ";AAAA,CAAC;AACG,SAAO;AACP,cAAY;AACZ,eAAa;AACjB;AAEA,CAAC;AACG,cAAY,KAAK,MAAM,EAAE;AACzB,YAAU;AACd;",
-  "names": []
-}
